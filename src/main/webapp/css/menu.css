@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=BenchNine:wght@300&display=swap');
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-color: rgb(66, 65, 65);
+	font-family: 'BenchNine', sans-serif;
+	text-align:center;
+	list-style:none;
+}
+h1{
+	font-size:xx-large;
+}
+a{
+	color:white;
+	text-decoration:none;
+	font-size:x-large;
+}
+a:hover{
+	font-size:xx-large;
+	transition:0.2s;
+}
